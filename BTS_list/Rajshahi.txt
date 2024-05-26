@@ -1,0 +1,54 @@
+<option> </option>
+<option>L3_Bogra BTS</option>
+<option>L3_Rajshahi BTS</option>
+<option>L3_Nator BTS</option>
+<option>L3_Chapai BTS</option>
+<option>L3_Pabna BTS</option>
+<option>L3_Joypurhat BTS</option>
+<option>L3_Jhaowtola BTS/option>
+<option>L3_Ataikula BTS</option>
+<option>L3_Naogoan BTS</option>
+<option>L3_Belkuchi BTS</option>
+<option>L3_Sirajgonj BTS</option>
+<option>BL_Sirajgonj</option>
+<option>BL_Kasinathpur</option>
+<option>BL_Rajshahi</option>
+<option>BL_Aihai</option>
+<option>BL_Gurudashpur</option>
+<option>BL_Chapai Nawabganj sador ,notun Hat</option>
+<option>BL_Sirajgonj Shahebgonj Bazar</option>
+<option>BL_Bogra</option>
+<option>BL_Chatmahor</option>
+<option>BL_kansat</option>
+<option>BL_Matajeehat</option>
+<option>BL_Rajapurhat</option>
+<option>BL_Baliaghata</option>
+<option>BL_Chowdala</option>
+<option>BL_Zianagar</option>
+<option>BL_Bagbaria</option>
+<option>BL_Shathia</option>
+<option>BL_Shahjadpur</option>
+<option>BL_Sheerpur</option>
+<option>BL_Nazirgonj</option>
+<option>BL_Shamganjhat</option>
+<option>BL_Dublibazar</option>
+<option>BL_Sathiya(ISHwardi)</option>
+<option>BL_Bogra</option>
+<option>BL_Pabna</option>
+<option>BL_Sahjapur</option>
+<option>GP_Toronirhat (Bogra)</option>
+<option>GP_Golabari</option>
+<option>GP_Bhatara</option>
+<option>GP_Chanpara(Joypurhut)</option>
+<option>GP_Matari(Joypurhut)</option>
+<option>GP_Bagati(Sirajgonj)</option>
+<option>GP_Beltali(Sirajgonj)</option>
+<option>GP_Paotana</option>
+<option>GP_Poba</option>
+<option>GP_Sonatola</option>
+<option>GP_Rajshahi</option>
+<option>GP_Bogra</option>
+
+ 
+
+

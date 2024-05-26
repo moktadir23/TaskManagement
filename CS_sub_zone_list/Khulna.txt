@@ -1,0 +1,16 @@
+<option> </option>
+<option>Barisal</option>
+<option>Chuadanga</option>
+<option>Faridpur</option>
+<option>Jessore</option>
+<option>Jhenaidah</option>
+<option>Khulna</option>
+<option>Kustia</option>
+<option>Patuakhali</option>
+
+
+
+
+
+
+

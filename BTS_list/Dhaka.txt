@@ -1,0 +1,125 @@
+<option> </option>
+<option>L3_Banani SMC</option>
+<option>L3_Ahmed Tower  BTS</option>
+<option>L3_CTG Road BTS</option>
+<option>L3_Gulshan land view BTS</option>
+<option>L3_BNS Center BTS</option>
+<option>L3_Uttara Office 4</option>
+<option>L3_Gazipur BTS</option>
+<option>L3_Mirpur (Banarosi polli) BTS</option>
+<option>L3_Tangail BTS</option>
+<option>L3_Savar EPZ BTS</option>
+<option>L3_Savar Bazar BTS</option>
+<option>L3_Concord BTS</option>
+<option>L3_Dhanmondi Office</option>
+<option>L3_Malek Mension</option>
+<option>L3_Imamgonj BTS</option>
+<option>L3_Segunbagicha</option>
+<option>L3_Narayangonj BTS</option>
+<option>L3_Joypara BTS</option>
+<option>L3_Ghorashal BTS</option>
+<option>L3_Madhobdi BTS</option>
+<option>L3_B.Baria BTS</option>
+<option>L3_Akhuara BTS</option>
+<option>L3_Kishoregonj BTS</option>
+<option>L3_M.Sing BTS</option>
+<option>L3_Vhaluka BTS</option>
+<option>L3_Voirab BTS</option>
+<option>L3_Ashugonj BTS</option>
+<option>L3_Monipuripara</option>
+<option>L3_Nikunjo BTS</option>
+<option>L3_Chairman Sir Residenc BTS</option>
+<option>L3_Banani 28 Road</option>
+<option>L3_Easkaton BTS</option>
+<option>L3_Banosree BTS</option>
+<option>L3_Mawna BTS</option>
+<option>L3_Hatirpul BTS</option>
+<option>L3_Mohammadpur BTS</option>
+<option>L3_Mirpur DOHS BTS</option>
+<option>L3_Bashundhara BTS</option>
+<option>L3_Wari BTS</option>
+<option>L3_Uttara Sector 13</option>
+<option>L3_Jatrabari BTS</option>
+<option>L3_Manikgonj BTS</option>
+<option>L3_Tejgaon BTS</option>
+<option>L3_Mohanagar Project BTS</option>
+<option>L3_DIT Project BTS</option>
+<option>L3_Khilgaon BTS</option>
+<option>L3_Mirpur-2 BTS</option>
+<option>L3_Kawranbazar BTS</option>
+<option>L3_Munshigonj BTS</option>
+<option>L3_Siddirgonj BTS</option>
+<option>L3_Mohakhali DOHS BTS</option>
+<option>L3_Jamgora BTS</option>
+<option>L3_Tongi BTS</option>
+<option>Cybergate NOC BTS</option>
+<option>BL_Tangail Elenga</option>
+<option>BL_Tangail Jamuna Resorte</option>
+<option>BL_Bhuapur</option>
+<option>BL_Gopalgonj</option>
+<option>BL_Gopalgonj shibchore</option>
+<option>BL_Sherpur</option>
+<option>BL_Jamalpur</option>
+<option>BL_Shariatpur</option>
+<option>BL_Bidyagonj</option>
+<option>BL_Payerpur</option>
+<option>BL_Fakirerbazar</option>
+<option>BL_Lahirikanda</option>
+<option>BL_Bhanga</option>
+<option>BL_Belabo</option>
+<option>BL_Haluaghat</option>
+<option>BL_Korotia</option>
+<option>BL_Kotiadi</option>
+<option>BL_Rajbari</option>
+<option>BL_Nabinagor</option>
+<option>BL_Madaripur</option>
+<option>BL_Sreenagar</option>
+<option>BL_Sreebardi</option>
+<option>BL_Sorisabari</option>
+<option>BL_Gosinga</option>
+<option>BL_Nalitabari</option>
+<option>BL_Damodya</option>
+<option>BL_Fulbaria</option>
+<option>BL_Alfadanga</option>
+<option>BL_Netrokona</option>
+<option>BL_Central pop</option>
+<option>BL_Mymensingh</option>
+<option>BL_Yunus centre</option>
+<option>BL_Keranigonj</option>
+<option>GP_Bhaluka</option>
+<option>GP_Gopalpur</option>
+<option>GP_Warshi</option>
+<option>GP_Shahbazar,jamalpur</option>
+<option>GP_Somvugonj,mymenshing</option>
+<option>GP_Balijuri,jamalpur</option>
+<option>GP_Madaripur</option>
+<option>GP_Mawna,Gazipur</option>
+<option>GP_Khaja Tower</option>
+<option>GP_Mymensingh</option>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

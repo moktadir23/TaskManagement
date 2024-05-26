@@ -1,0 +1,30 @@
+<option> </option>
+<option>Still Down</option>
+<option>Not Found</option>
+<option>Other</option>
+<option>Fiber Cut</option>
+<option>F@H issue</option>
+<option>Summit Issue</option>
+<option>Auto Up</option>
+<option>Fiber Leaser High</option>
+<option>Fiber Burn</option>
+<option>Fiber Stolen</option>
+<option>Fiber Core Damage</option>
+<option>Port Problem</option>
+<option>Configuration Problem</option>
+<option>3rd Party Issue</option>
+<option>Device Stuck</option>
+<option>Device Faulty</option>
+<option>Fiber Bend</option>
+<option>Port Error</option>
+<option>Malfunction</option>
+<option>PDB Pole Maintenance</option>
+<option>WL Frequency Problem</option>
+<option>WL Alignment Problem</option>
+<option>Fog  Problem</option>
+<option>Maintenance</option>
+<option>UTP Cable Problem</option>
+<option>Power Problem</option>
+<option>Bad Weather</option>
+<option>Patch Cord Problem</option>
+

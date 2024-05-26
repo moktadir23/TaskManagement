@@ -1,0 +1,22 @@
+<option> </option>
+<option>Still Down</option>
+<option>Not Found</option>
+<option>Other</option>
+<option>Fiber Cut</option>
+<option>UTP Cable Problem</option>
+<option>Long time PDB Outage</option>
+<option>Building Power Problem</option>
+<option>UPS Backup Problem</option>
+<option>UPS in Bypass mode</option>
+<option>UPS failure</option>
+<option>Generator Failure</option>
+<option>Power Extension Problem</option>
+<option>Circuit Breaker Problem</option>
+<option>High Temperature</option>
+<option>Power Problem</option>
+<option>Malfunction</option>
+<option>Broadcast Problem</option>
+<option>Logical Problem</option>
+<option>Device Stuck</option>
+<option>Maintenance</option>
+<option>Human Error</option>

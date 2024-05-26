@@ -1,0 +1,10 @@
+<option> </option>
+<option>Not Found</option>
+<option>Provider end Fiber cut</option>
+<option>Client end Fiber cut</option>
+<option>Provider end Power Problem</option>
+<option>Client  end Power Problem</option>
+<option>NTTN/Telco Tx path problem</option>
+<option>Provider end Problem</option>
+<option>Client  end Problem</option>
+<option>Other</option>

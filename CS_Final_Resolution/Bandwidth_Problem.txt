@@ -1,0 +1,137 @@
+<option></option>
+<option>Allot Bandwidth Profile Misconfiguration</option>
+<option>Allot Malfunction</option>
+<option>Auto Resolved - No Issue Found</option>
+<option>Auto Resolved - Before Support Attend</option>
+<option>Auto Resolved after ONU Reboot</option>
+<option>Auto Resolved after Client WiFi Router Reboot</option>
+<option>AWS Upload</option>
+<option>AWS Download</option>
+<option>BRAS Bandwidth Congestion</option>
+<option>BRAS Bandwidth Profile Misconfiguration</option>
+<option>BRAS Router Malfunction</option>
+<option>Bandwidth Flactuation</option>
+<option>BDIX Problem</option>
+<option>Customer WiFi Router Low Signal Coverage</option>
+<option>Customer WiFi Router Malfunction</option>
+<option>Customer WiFi Router Misconfiguration</option>
+<option>Customer WiFi Router Stuck</option>
+<option>Customer WiFi Router Compromized</option>
+<option>Customer end Power</option>
+<option>Customer end UTP loose</option>
+<option>Customer end UTP Problem</option>
+<option>Customer end FON Patch Cord loose</option>
+<option>Customer end FON Patch Cord Problem</option>
+<option>Customer end Device Wrong Connectivity</option>
+<option>Customer end Connectivity Loop</option>
+<option>Customer LAN Connectivity Problem</option>
+<option>Customer LAN Routing Problem</option>
+<option>Customer LAN Broadcast Problem</option>
+<option>Customer Router Malfunction</option>
+<option>Customer Router Misconfiguration</option>
+<option>Customer Router Stuck</option>
+<option>Customer Router Compromized</option>
+<option>Customer Router Bandwidth Policy</option>
+<option>Customer Switch Malfunction</option>
+<option>Customer Switch Misconfiguration</option>
+<option>Customer Switch Stuck</option>
+<option>Customer Server Hardware Problem</option>
+<option>Customer Server Service Problem</option>
+<option>Customer Server Configuration Problem</option>
+<option>Customer Server Compromized</option>
+<option>Customer end Firewall Problem</option>
+<option>Customer - Wrong IP / DNS Configuration</option>
+<option>Customer - Intentional Duplicate IP Configuration</option>
+<option>Customer end Browser Problem</option>
+<option>Customer Laptop / PC Malfunction</option>
+<option>Customer Laptop / PC Compromized</option>
+<option>Customer - Virus / Melicius Application / Adware / Malware / Spam Problem</option>
+<option>Core Infrastructure Problem</option>
+<option>DDoS Attack - External</option>
+<option>DDoS Attack - Internal</option>
+<option>Duplicate IP</option>
+<option>Device faulty/changed</option>
+<option>Facebook Page Loading</option>
+<option>Facebook Image Loading</option>
+<option>Facebook SD Video Loading</option>
+<option>Facebook HD Video Loading</option>
+<option>FTP Upload</option>
+<option>FTP Download</option>
+<option>Full Download Bandwidth Utilization</option>
+<option>Full Upload Bandwidth Utilization</option>
+<option>Full Bandwidth Utilization</option>
+<option>Google Drive Upload</option>
+<option>Google Drive Download</option>
+<option>Get Proper Bandwidth on throughput test</option>
+<option>Higher Latency</option>
+<option>Link3 DNS Problem</option>
+<option>Locked due to billing issue</option>
+<option>Multiple High BW Profile User Connected on the same ONU</option>
+<option>No respond</option>
+<option>OneDrive Upload</option>
+<option>OneDrive Download</option>
+<option>Online Game</option>
+<option>Package / Bandwidth Change</option>
+<option>Packet loss to Gateway</option>
+<option>Packet Loss</option>
+<option>PoP Bandwidth Congestion</option>
+<option>PoP - Broadcast</option>
+<option>PoP Router Down</option>
+<option>PoP Router Malfunction</option>
+<option>PoP Router Configuration</option>
+<option>PoP Router Rate limit</option>
+<option>PoP Switch Malfunction</option>
+<option>PoP Switch Down</option>
+<option>PoP Switch VLAN Configuration</option>
+<option>PoP Switch Port Sensing</option>
+<option>PoP Power Strip / Socket Problem</option>	
+<option>PoP UPS Problem</option>
+<option>PoP Generator Problem</option>
+<option>PoP Power Cut</option>
+<option>Remote Hosted Application Access</option>
+<option>Remote Hosted Web Access</option>
+<option>Slow Browsing</option>
+<option>Smart TV - Youtube HD Video Streaming</option>
+<option>Smart TV - Youtube 4K Video Streaming</option>
+<option>Smart TV - Netflix Streaming</option>
+<option>Smart TV - Video Streaming</option>
+<option>Smart TV - WiFi Signal</option>
+<option>Skype Voice</option>
+<option>Skype Video</option>
+<option>SIP-VoIP</option>
+<option>Upstream Schedule Maintenance</option>
+<option>Upstream SMW-4 Cable Cut</option>
+<option>Upstream SMW-5 Cable Cut</option>
+<option>Upstream SMW-4 Local Loop Problem</option>
+<option>Upstream SMW-5 Local Loop Problem</option>
+<option>Upstream BSCCL Problem</option>
+<option>Upstream Routing Problem</option>
+<option>Upstream Bandwidth Congestion</option>
+<option>Upstream - Cybergate Infrastructure Problem</option>
+<option>Viber Vioce</option>
+<option>Viber Video</option>
+<option>Video Conference - Voice</option>
+<option>Video Conference - Video</option>
+<option>VPN over Internet</option>
+<option>VPN over Intranet</option>
+<option>Web Page Loading</option>
+<option>WhatsApp Vioce</option>
+<option>WhatsApp Video</option>
+<option>Youtube Page Loading</option>
+<option>Youtube SD Video Buffer</option>
+<option>Youtube HD Video Buffer</option>
+<option>Youtube 4K Video Buffer</option>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

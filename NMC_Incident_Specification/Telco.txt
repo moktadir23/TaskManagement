@@ -1,0 +1,5 @@
+<option value="0">Select Specification</option>
+<option>E1 or STM</option>
+<option>POP</option>
+<option>RAD</option>
+<option>Site</option>

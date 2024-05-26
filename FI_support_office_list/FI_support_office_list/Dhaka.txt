@@ -1,0 +1,10 @@
+<option> </option>
+<option>Banani</option>
+<option>Bashundhara</option>
+<option>Uttara</option>
+<option>Tongi</option>
+<option>Dhanmondi</option>
+<option>Savar</option>
+<option>Segunbagica</option>
+<option>Narayangonj</option>
+<option>Mirpur</option>

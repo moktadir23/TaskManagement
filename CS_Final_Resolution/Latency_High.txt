@@ -1,0 +1,20 @@
+<option></option>
+<option>BTS/Backbone Down</option>
+<option>Client LAN Issue</option>
+<option>Fiber Cut/Damaged/Leaser High</option>
+<option>NTTN or Thrid Party Link issues</option>
+<option>Full BW Utilization</option>
+<option>Mikrotik Conigure Issue</option>
+<option>PC/Laptop Problem</option>
+<option>Problem solve before atend support</option>
+<option>Radio Freqnecy Interfearence</option>
+<option>Routing Issues</option>
+<option>Upstream Problem</option>
+<option>VPN issues</option>
+<option>WIFI Signal Coverage Problem</option>
+<option>Wrong ticket</option>
+<option>Hosting Problem</option>
+<option>Link3 Device Faulty/Changed</option>
+<option>Link3 Device Stuck/Reboot</option>
+<option>Not Respond after traceless SMS</option>
+<option>ONU Soft Rebooted By FONOC</option>

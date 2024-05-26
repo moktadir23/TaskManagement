@@ -1,0 +1,14 @@
+<option> </option>
+<option>Fiber Down</option>
+<option>Leaser High</option>
+<option>SetTop Box Faulty</option>
+<option>After Changed the ONu Problem Solved</option>
+<option>Ip Concflict Issues</option>
+<option>Backbone Down</option>
+<option>Utp cable issue</option>
+<option>Remote Faulty</option>
+<option>Onu Stuck need Reboot</option>
+<option>Multicast not working</option>
+<option>Onu not configured properly</option>
+<option>Billing issues</option>
+<option>Pon down</option>

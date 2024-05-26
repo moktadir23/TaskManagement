@@ -1,0 +1,10 @@
+<option>Project Work</option>
+<option>Requirement Gathering and Analysis</option>
+<option>System Design</option>
+<option>Implementation</option>
+<option>Integration and Testing</option>
+<option>Deployment of system</option>
+<option>Maintenance</option>
+<option>Update</option>
+<option>Technical Support</option>
+<option>Debugging</option>

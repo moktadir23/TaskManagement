@@ -1,0 +1,34 @@
+<option> </option>
+<option>Azimpur</option>
+<option>Badda</option>
+<option>Banani</option>
+<option>Bashundhara</option>
+<option>Cantonment</option>
+<option>Dhanmondi</option>
+<option>Eskaton</option>
+<option>Gazipur</option>
+<option>Gulshan</option>
+<option>Jatrabari</option>
+<option>Joypara</option>
+<option>Karwarbazar</option>
+<option>Keraniganj</option>
+<option>Mirpur</option>
+<option>Mogbazar</option>
+<option>Mohakhali</option>
+<option>Mohammadpur</option>
+<option>MotiJheel</option>
+<option>Mohakhali</option>
+<option>Old Dhaka</option>
+<option>Rampura</option>
+<option>Savar</option>
+<option>Segunbagicha</option>
+<option>Shahbagh</option>
+<option>Tejgoan</option>
+<option>Tongi</option>
+<option>Uttara</option>
+
+
+
+
+
+

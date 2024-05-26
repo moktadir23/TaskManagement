@@ -1,0 +1,20 @@
+<option></option>
+<option>BTS/Backbone Down</option>
+<option>Client LAN Issue</option>
+<option>Fiber Cut/Damaged/Leaser High</option>
+<option>IP_Blacklisted</option>
+<option>Mikrotik Conigure Issue</option>
+<option>MQ_Login_Issue</option>
+<option>Not Respond after traceless SMS</option>
+<option>PC/Laptop Problem</option>
+<option>Mq Profile Problem</option>
+<option>Routing Issues</option>
+<option>Service Query</option>
+<option>Upstream Problem</option>
+<option>VPN issues</option>
+<option>Wifi Router Configure issue</option>
+<option>Wrong IP used by Client</option>
+<option>Wrong ticket</option>
+<option>FONOC reconfigure/refresh ONU vlan</option>
+<option>Hosting Problem</option>
+<option>DNS Changed</option>

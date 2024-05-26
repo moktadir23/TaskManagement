@@ -1,0 +1,10 @@
+<option></option>
+<option>Not Respond after traceless SMS</option>
+<option>UTP cable Disconnected / Lossly Connected</option>
+<option>UTP cable/ Connector Damaged</option>
+<option>Wifi Router Configure issue</option>
+<option>Wifi Router Faulty</option>
+<option>Wifi Router Stuck/Reboot</option>
+<option>WIFI Signal Coverage Problem</option>
+<option>Wrong IP used by Client</option>
+<option>Wrong ticket</option>

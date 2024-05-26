@@ -1,0 +1,2 @@
+<option>Internal Training </option>
+<option>External Training</option>

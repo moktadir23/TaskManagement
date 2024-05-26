@@ -1,0 +1,15 @@
+<option> </option>
+<option>Still Down</option>
+<option>Not Found</option>
+<option>Other</option>
+<option>Fiber Cut</option>
+<option>Fiber Leaser Loss</option>
+<option>NTTN issue</option>
+<option>Fiber Burn</option>
+<option>NTTN end SW down</option>
+<option>NTTN end Power down</option>
+<option>SFP module problem</option>
+<option>Transmission Problem</option>
+<option>Fiber Cut at Co-location End</option>
+<option>Maintenance</option>
+<option>Fiber Damage</option>

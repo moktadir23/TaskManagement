@@ -1,0 +1,62 @@
+<option> </option>
+<option>Server Problem</option>
+<option>Phone Problem</option>
+<option>Gateway Device</option>
+<option>Incoming Call Problem</option>
+<option>Outgoing Call Problem</option>
+<option>IP Routing</option>
+<option>One Way Voice</option>
+<option>Call Drop</option>
+<option>IVR-Problem</option>
+<option>E1 Link-Check</option>
+<option>ISD Call Problem</option>
+<option>Tariff-Rate</option>
+<option>Fake Calls</option>
+<option>Voice Break</option>
+<option>Authentication-Problem</option>
+<option>Service-Upgradation</option>
+<option>VoIP-Switch Maintenance</option>
+<option>Core-Gateway Maintenance</option>
+<option>VoIP-Switch Database </option>
+<option>New IP Assign</option>
+<option>SIP Port Block</option>
+<option>BDIX route</option>
+<option>Fiber Cut</option>
+<option>Internal PBX Maintenance</option>
+<option>Hosted server Maintenance</option>
+<option>Internal Call-Center Maintenance</option>
+<option>E1- Troubleshoot</option>
+<option>SIP Trunk Add</option>
+<option>DID Add</option>
+<option>LAN</option>
+<option>CDR</option>
+<option>Balance</option>
+<option>IP Firewall</option>
+<option>Agent Create</option>
+<option>CC Campaign</option>
+<option>CC Inbound</option>
+<option>Phone Reinstall</option>
+<option>Core Support</option>
+<option>Core Report</option>
+<option>Core Maintenance</option>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

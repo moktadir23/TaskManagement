@@ -1,0 +1,21 @@
+<option> </option>
+<option>Subscriber Name Change</option>
+<option>Billing Address Change</option>
+<option>Server Re-installation</option>
+<option>Hardware-Re-installation</option>
+<option>Channel Increase</option>
+<option>Channel Decrease</option>
+<option>Termination</option>
+<option>Number Change</option>
+<option>Client Code Change</option>
+<option>Tariff Rate Change</option>
+<option>Shifting</option>
+<option>Change-IVR</option>
+<option>Lock</option>
+<option>Unlock</option>
+<option>Service-Upgradation</option>
+<option>Credit-limit increase</option>
+<option>Credit-limit decrease</option>
+
+
+

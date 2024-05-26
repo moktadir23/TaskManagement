@@ -1,0 +1,27 @@
+<option> </option>
+<option>Head Office</option>
+<option>Ashugonj</option>
+<option>Banani</option>
+<option>Bbaria</option>
+<option>Bashundhara</option>
+<option>Cumilla</option>
+<option>Dhanmondi</option>
+<option>Daudkandi</option>
+<option>Gazipur</option>
+<option>Haluaghat</option>
+<option>Joypara</option>
+<option>Mirpur_DOHS</option>
+<option>Motijheel</option>
+<option>Mymensing</option>
+<option>Narayongonj</option>
+<option>Savar</option>
+<option>Siddirganj</option>
+<option>Tangail</option>
+<option>Tongi</option>
+<option>Uttara</option>
+
+
+
+
+
+

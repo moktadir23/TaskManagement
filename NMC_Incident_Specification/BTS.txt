@@ -1,0 +1,5 @@
+<option value="0">Select Specification</option>
+<option>Router</option>
+<option>Switch</option>
+<option>Server</option>
+<option>Surecom</option>

@@ -1,0 +1,24 @@
+<option> </option>
+<option>Still down</option>
+<option>Still Fluctuating</option>
+<option>Card fault at Saudi Arabia</option>
+<option>Summit Maintenance</option>
+<option>Dhaka to Coxsbazar TX path problem</option>
+<option>DHK -Kuakata NTTN TX path problem</option>
+<option>Dhaka end local-loop fibre break problem</option>
+<option>Fiber cut at our end</option>
+<option>Dhaka to CoxsBazar NTTN TX path problem</option>
+<option>Dhaka to CoxsBazar SCL problem</option>
+<option>Dhaka to  kuakata BTCL TX path problem</option>
+<option>Power Problem</option>
+<option>Fiber cut in between Banani to Tejgaon</option>
+<option>Not Found yet</option>
+<option>SMW4 maintenance work</option>
+<option>CTG to CoxsBazar TX path problem</option>
+<option>Submarine cable transmission fault</option>
+<option>BSCCL maintenance work</option>
+<option>BTCL Backbone problem</option>
+<option>MUX Card Replacement by BSCCL in CHN - COX cable path</option>
+<option>Local looping problem</option>
+<option>F@H end FO cut</option>
+<option>Other</option>

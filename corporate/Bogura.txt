@@ -1,0 +1,8 @@
+<option> </option>
+<option>Bogura</option>
+<option>Dinajpur</option>
+<option>Natore</option>
+<option>Rangpur</option>
+<option>Rajshahi</option>
+<option>Sirajgonj</option>
+<option>Thakurgaon</option>

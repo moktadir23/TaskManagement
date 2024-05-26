@@ -1,0 +1,20 @@
+<option> </option>
+<option>L3_Barishal BTS</option>
+<option>L3_Potuakhali BTS</option>
+<option>L3_Borguna BTS</option>
+<option>L3_Mirhat BTS</option>
+<option>BL_Barisal</option>
+<option>BL_Bhola</option>
+<option>BL_Potuakhali sador</option>
+<option>BL_Motbaria</option>
+<option>BL_Bauphal</option>
+<option>BL_Kolapara(Khapupara)</option>
+<option>BL_Golachipa</option>
+<option>BL_Jhalokathi</option>
+<option>BL_Pirojpur,Banaripara</option>
+<option>BL_Pirojpur sador</option>
+<option>Bl_Chorfashion</option>
+<option>BL_Barishal</option>
+<option>GP_Babugonj,BarisL</option>
+<option>GP_Gouronodi</option>
+<option>GP_Barishal</option>

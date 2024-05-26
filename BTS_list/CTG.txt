@@ -1,0 +1,86 @@
+<option> </option>
+<option>L3_Mehedi Tower BTS</option>
+<option>L3_C&F Tower BTS</option>
+<option>L3_Khatungonj BTS</option>
+<option>L3_Ali Plaza BTS</option>
+<option>L3_Cox's Bazar BTS</option>
+<option>L3_KEPZ BTS</option>
+<option>L3_Sagorika BTS</option>
+<option>L3_Feni BTS</option>
+<option>L3_Comilla BTS</option>
+<option>L3_Daudkandi BTS</option>
+<option>L3_Chadpur BTS</option>
+<option>L3_Nazumiyarhat BTS</option>
+<option>L3_Chowmohoni BTS</option>
+<option>L3_Khulshi BTS</option>
+<option>L3_CTG Airport BTS</option>
+<option>L3_Kalurghat BTS</option>
+<option>L3_Oxygen More BTS</option>
+<option>L3_Idgha</option>
+<option>L3_Lohagora</option>
+<option>L3_Potia</option>
+<option>L3_Kaptai</option>
+<option>L3_Chokoria</option>
+<option>BL_Ctg (for ctg exchange )</option>
+<option>BL_Shitakundo</option>
+<option>BL_Hajigonj</option>
+<option>BL_Faridgonj</option>
+<option>BL_Rangunia</option>
+<option>BL_Khagrachori</option>
+<option>BL_Rangamati</option>
+<option>BL_Chokori</option>
+<option>BL_Kumira</option>
+<option>BL_Matlab</option>
+<option>BL_Patherhat</option>
+<option>BL_Hatia</option>
+<option>BL_Sakherkhali</option>
+<option>BL_Bashkhali</option>
+<option>BL_Debidwar</option>
+<option>BL_Senbag</option>
+<option>BL_Porsuram</option>
+<option>BL_Raipur</option>
+<option>BL_Teknaf</option>
+<option>BL_Ramgonj</option>
+<option>BL_Sonagazi</option>
+<option>BL_Khilpara</option>
+<option>BL_Chandpur sadar</option>
+<option>BL_Rawzan</option>
+<option>BL_Laxmipur</option>
+<option>BL_Maizdi</option>
+<option>BL_Boalkhali</option>
+<option>BL_Mirersorai</option>
+<option>BL_Subornochor</option>
+<option>BL_Chatkhail</option>
+<option>BL_Chatterpaiya</option>
+<option>BL_Feni</option>
+<option>BL_Comilla</option>
+<option>BL_Chittagong</option>
+<option>BL_Coxs Bazar</option>
+<option>BL_Juger Chor Madarbai</option>
+<option>BL_Alekharchor(</option>
+<option>GP_Swndwip</option>
+<option>GP_Dohazari</option>
+<option>GP_NilaBazar Cox's Bazar</option>
+<option>GP_Bandorban</option>
+<option>GP_Nanupur</option>
+<option>GP_Fatikchori</option>
+<option>GP_Hathazari</option>
+<option>GP_Bhatiary</option>
+<option>GP_Nazirhat</option>
+<option>GP_Khutakhali</option>
+<option>GP_Chatarhat</option>
+<option>GP_Aziznagar</option>
+<option>GP_Durgapur</option>
+<option>GP_Ramgarh</option>
+<option>GP_Comilla Epz</option>
+<option>GP_Rangunia</option>
+<option>GP_Chittagong</option>
+<option>GP_Comilla</option>
+<option>GP_Coxs Baza</option>
+
+
+
+
+
+
+

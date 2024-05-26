@@ -1,0 +1,31 @@
+<option></option>
+<option>BTS/Backbone Down</option>
+<option>Client LAN Issue</option>
+<option>Fiber Cut/Damaged/Leaser High</option>
+<option>NTTN or Thrid Party Link issues</option>
+<option>Full BW Utilization</option>
+<option>FUP Quota Full</option>
+<option>Link3 Device Faulty/Changed</option>
+<option>Link3 Device Stuck/Reboot</option>
+<option>Mikrotik Conigure Issue</option>
+<option>MQ_Login_Issue</option>
+<option>Not Respond after traceless SMS</option>
+<option>PC/Laptop Problem</option>
+<option>Plan_Change</option>
+<option>Mq/Allote Profile Problem</option>
+<option>Problem solve before atend support</option>
+<option>Radio Freqnecy Interfearence </option>
+<option>Routing Issues</option>
+<option>Upstream Problem</option>
+<option>VPN issues</option>
+<option>Wifi Router Configure issue</option>
+<option>WIFI Signal Coverage Problem</option>
+<option>Wrong IP used by Client</option>
+<option>Wrong ticket</option>
+<option>Get Proper Bandwdith on throughput test</option>
+<option>FONOC reconfigure/refresh ONU vlan</option>
+<option>Service Query</option>
+<option>Wifi Router Stuck/Reboot</option>
+<option>ONU Soft Rebooted By FONOC</option>
+<option>Link3 Device Stuck/Reboot</option>
+<option>Locked/Suspended for BIlling issue</option>

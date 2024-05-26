@@ -1,0 +1,34 @@
+<option> </option>
+<option>L3_Rangpur BTS</option>
+<option>L3_Dinajpur BTS</option>
+<option>L3_Sayedpur BTS</option>
+<option>L3_Thakurgaon BTS</option>
+<option>BL_Chilmari</option>
+<option>BL_Dinajpur</option>
+<option>BL_Nazimkhan</option>
+<option>BL_Nekmahmud</option>
+<option>BL_Ranisankail</option>
+<option>BL_Patgram</option>
+<option>BL_Mithapukur</option>
+<option>BL_Shalbanhat</option>
+<option>BL_Kurigram</option>
+<option>BL_Gaibandha</option>
+<option>BL_Hatibandha</option>
+<option>BL_Lalmonirhat</option>
+<option>BL_Birampur</option>
+<option>BL_Parbotipur</option>
+<option>BL_Nageswari</option>
+<option>BL_Gobindhogonj</option>
+<option>BL_Panchagarh</option>
+<option>BL_Nilphamari</option>
+<option>BL_Rangpur</option>
+<option>BL_Dinajpur</option>
+<option>BL_Rangpur</option>
+<option>GP_Rasulpur (Gaibandha)</option>
+<option>GP_Komolgonj</option>
+<option>GP_Tunirhat</option>
+<option>GP_Panchagar</option>
+<option>GP_Dinajpur</option>
+
+
+

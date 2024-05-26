@@ -1,0 +1,42 @@
+<option> </option>
+<option>L3_Beanibazar BTS</option>
+<option>L3_Bishwanath BTS</option>
+<option>L3_Eidgah Sylhet BTS</option>
+<option>L3_Goalabazar BTS</option>
+<option>L3_Habigonj BTS</option>
+<option>L3_Khadimpara BTS</option>
+<option>L3_Madina market BTS</option>
+<option>L3_Moulovibazar BTS</option>
+<option>L3_Mojumdari BTS</option>
+<option>L3_Nabigonj BTS</option>
+<option>L3_Sunamgonj BTS</option>
+<option>L3_Sylhet Al-Hamra BTS</option>
+<option>L3_Sylhet Airport POP</option>
+<option>L3_Srimangal (MirTelecom)</option>
+<option>L3_Uposohor BTS</option>
+<option>BL_Derai</option>
+<option>BL_Komolgonj</option>
+<option>BL_Chatak</option>
+<option>BL_Kulaura</option>
+<option>BL_Shinudrkhan Bazar</option>
+<option>BL_Ambaribazar</option>
+<option>BL_Chunarughat</option>
+<option>BL_Rajnagar</option>
+<option>BL_Companigonj</option>
+<option>BL_Jagannathpur</option>
+<option>BL_Zakigonj</option>
+<option>BL_sunamgonj</option>
+<option>BL_Borolekha</option>
+<option>BL_Kanaighat</option>
+<option>BL_Dhaka dakhin (Sylhet,Golapgonj)</option>
+<option>BL_Madhobpur</option>
+<option>BL_Fenchogonj</option>
+<option>BL_Jaintapur</option>
+<option>BL_Olipur</option>
+<option>BL_Hobigonj</option>
+<option>BL_Sylhet</option>
+<option>GP_Golapgonj</option>
+<option>GP_Juri</option>
+<option>GP_Sylhet</option>
+
+

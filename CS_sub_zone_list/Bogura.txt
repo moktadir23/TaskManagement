@@ -1,0 +1,14 @@
+<option> </option>
+<option>Bogura</option>
+<option>Chapainawabganj</option>
+<option>Dinajpur</option>
+<option>Gaibandha</option>
+<option>Ishwardi</option>
+<option>Kurigram</option>
+<option>Natore</option>
+<option>Pabna</option>
+<option>Rangpur</option>
+<option>Rajshahi</option>
+<option>Saidpur</option>
+<option>Sirajgonj</option>
+<option>Thakurgaon</option>

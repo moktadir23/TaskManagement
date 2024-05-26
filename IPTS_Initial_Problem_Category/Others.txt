@@ -1,0 +1,14 @@
+<option> </option>
+<option>Technical-Meeting</option>
+<option>Solution Design</option>
+<option>Presentation</option>
+<option>Training</option>
+<option>ANS Outgoing Report</option>
+<option>ANS Incoming Report</option>
+<option>BTRC Query</option>
+<option>Call-Center RND</option>
+<option>IP-PBX RND</option>
+<option>Core-System RND</option>
+<option>System Backup</option>
+<option>Server Health Check</option>
+<option>BTRC-Billing</option>

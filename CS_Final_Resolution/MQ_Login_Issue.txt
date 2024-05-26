@@ -1,0 +1,13 @@
+<option></option>
+<option>FUP Quota Full</option>
+<option>MQ_Login_Issue</option>
+<option>PC/Laptop Problem</option>
+<option>Plan_Change</option>
+<option>Mq Profile Problem</option>
+<option>VLAN Mistmatch</option>
+<option>Wrong IP used by Client</option>
+<option>Wrong ticket</option>
+<option>Locked/Suspended for BIlling issue</option>
+<option>FONOC reconfigure/refresh ONU vlan</option>
+<option>Not Respond after traceless SMS</option>
+<option>IP_Change</option>

@@ -1,0 +1,13 @@
+<option></option>
+<option>Client LAN Issue</option>
+<option>NTTN or Thrid Party Link issues</option>
+<option>Mikrotik Conigure Issue</option>
+<option>Routing Issues</option>
+<option>UTP cable Disconnected / Lossly Connected</option>
+<option>UTP cable/ Connector Damaged</option>
+<option>VLAN Mistmatch</option>
+<option>Wrong ticket</option>
+<option>Locked/Suspended for BIlling issue</option>
+<option>Not Respond after traceless SMS</option>
+<option>IP Phone/ATA Configure issue</option>
+<option>Sip Registration Problem</option>

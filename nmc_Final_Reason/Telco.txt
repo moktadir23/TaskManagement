@@ -1,0 +1,22 @@
+<option> </option>
+<option>Still Down</option>
+<option>Not Found</option>
+<option>Other</option>
+<option>Telco Fiber Break</option>
+<option>Operator Transmission Problem</option>
+<option>Power Outage at Telco POP</option>
+<option>High Temperature at Telco POP</option>
+<option>Inverter Problem</option>
+<option>Device Stuck</option>
+<option>BL End Problem</option>
+<option>Adapter Problem</option>
+<option>Short Circuit</option>
+<option>Bad Weather</option>
+<option>Port Problem</option>
+<option>Maintenance</option>
+<option>Microwave Problem</option>
+<option>Power Extension Problem</option>
+<option>Circuit Breaker Problem</option>
+<option>Malfunction</option>
+<option>FO Break at Our End</option>
+<option>WL Problem at Our End</option>

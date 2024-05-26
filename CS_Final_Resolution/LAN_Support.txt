@@ -1,0 +1,15 @@
+<option></option>
+<option>IP_Blacklisted</option>
+<option>Client LAN Issue</option>
+<option>Location/Room Shifting</option>
+<option>Mikrotik Conigure Issue</option>
+<option>PC/Laptop Problem</option>
+<option>UTP cable Disconnected / Lossly Connected</option>
+<option>UTP cable/ Connector Damaged</option>
+<option>WIFI Signal Coverage Problem</option>
+<option>Wrong IP used by Client</option>
+<option>Not Respond after traceless SMS</option>
+
+
+
+

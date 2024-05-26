@@ -1,0 +1,14 @@
+<option>SOC - Vulnerability Analysis</option>
+<option>SOC - Penetration Testing</option>
+<option>SOC - Security Incident Analysis and Report</option>
+<option>SOC - Host IDS/IPS Analysis and Tuning</option>
+<option>SOC - Host Firewall Analysis and Tuning</option>
+<option>SOC - Security Log Analysis and Logic Tuning</option>
+<option>SOC - Netflow - Protocol Pattern Analysis</option>
+<option>SOC - Netflow - Human Behavior Analysis</option>
+<option>SOC - Security Policy analysis and versioning </option>
+<option>SOC - Documentation</option>
+<option>SOC - R&D </option>
+<option>SOC - SOCHost Administration</option>
+<option>SOC - SOCHost Maintenance </option>
+<option>SOC - SOCHost Troubleshoot</option>

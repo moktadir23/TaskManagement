@@ -1,0 +1,42 @@
+<option> </option>
+<option>L3_Khulna BTS</option>
+<option>L3_Jessore BTS</option>
+<option>L3_Benapole BTS</option>
+<option>L3_Kustia</option>
+<option>L3_Mongla</option>
+<option>L3_Chuadanga</option>
+<option>L3_Shatkhira</option>
+<option>L3_Faridpur</option>
+<option>L3_Fultala</option>
+<option>L3_Glaxomor BTS</option>
+<option>L3_Daulatpur BTS</option>
+<option>L3_Gopalgonj BTS</option>
+<option>BL_Daulatpur</option>
+<option>BL_khulna</option>
+<option>BL_Jessore</option>
+<option>BL_shatkhira</option>
+<option>BL_Magura</option>
+<option>BL_Jhinaidah</option>
+<option>BL_Kaligonj (Jhinaida)</option>
+<option>BL_Meherpur</option>
+<option>BL_Naopara</option>
+<option>BL_Phulerhat Bazar</option>
+<option>BL_Sannashi Bazar</option>
+<option>BL_Mautala</option>
+<option>BL_Aundulbaria</option>
+<option>BL_Chuadanga</option>
+<option>BL_Bagerhat</option>
+<option>BL_Norail</option>
+<option>BL_Mongla</option>
+<option>BL_Bhetkhali</option>
+<option>BL_Jibannagar</option>
+<option>BL_Kaskara</option>
+<option>BL_Kustia</option>
+<option>BL_Khulna</option>
+<option>GP_Gazirhat</option>
+<option>GP_Morelgonj</option>
+<option>GP_Pangsha</option>
+<option>GP_Khulna</option>
+<option>GP_Kustia</option>
+
+
