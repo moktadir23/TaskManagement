@@ -75,11 +75,11 @@ Identify the major milestones in your solution and align them to the course time
 |  Milestone  | Deliverable |
 | :-------------: | ------------- |
 |  May 29th  | Project Plan Submission |
-| May 29th  | A short video presenation decribing the user groups and requirements for the project.  This will be reviewed by your client and the team will receive feedback. |
-| June 5th  | Design Submission: Same type of description here. Aim to have a design of the project and the system architecture planned out. Use cases need to be fully developed.  The general user interface design needs to be implemented by this point (mock-ups). This includes having a consistent layout, color scheme, text fonts, etc., and showing how the user will interact with the system should be demonstrated. |
-| June 5th  |  A short video presenation decribing the design for the project.  This will be reviewed by your client and the team will receive feedback. |
-| June 14th  | Mini-Presentations: A short description of the parts of the envisioned usage you plan to deliver for this milestone. Should not require additional explanation beyond what was already in your envisioned usage. This description should only be a few lines of text long. Aim to have 3 features working for this milestone (e.g., user log-in with credentials and permissions counts as 1 feature). Remember that features also need to be tested.  |
-| July 5th  | MVP Mini-Presentations: A short description of the parts of the envisioned usage you plan to deliver for this milestone. Should not require additional explanation beyond what was already in your envisioned usage. This description should only be a few lines of text long. Aim to have close to 50% of the features working for this milestone.  Remember that features also need to be tested. Clients will be invited to presentations.|
-| July 19th  | Peer testing and feedback: Aim to have an additional two features implemented and tested **per** team member. As the software gets bigger, you will need to be more careful about planning your time for code reviews, integration, and regression testing. |
-| August 2nd  | Test-O-Rama: Full scale system and user testing with everyone |
-| August 9th  |  Final project submission and group presentions: Details to follow |
+|  |  |
+| June 5th  |  |
+| June 5th  ||
+| June 14th  | |
+| July 5th  | |
+| July 19th  |  |
+| August 2nd  | Tests and Final Changes|
+| August 9th  |  Final project deployment |
